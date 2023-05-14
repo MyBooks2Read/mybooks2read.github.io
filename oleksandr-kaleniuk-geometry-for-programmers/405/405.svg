@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_405"><path d="M157.1,289.4V83.4H409.7v206Z"/></clipPath>
+<clipPath id="c1_405"><path d="M451.8,290.3V82.6H707.1V290.3Z"/></clipPath>
+<clipPath id="c2_405"><path d="M157.1,567.4v-208H412.2v208Z"/></clipPath>
+<clipPath id="c3_405"><path d="M452.3,567.7V359H707.1V567.7Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_405{
+fill: #AEACAB;
+}
+.g1_405{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.759;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_405)" preserveAspectRatio="none" x="157" y="83" width="253" height="206" xlink:href="img/1.jpg"/>
+<image clip-path="url(#c1_405)" preserveAspectRatio="none" x="452" y="83" width="255" height="207" xlink:href="img/2.jpg"/>
+<image clip-path="url(#c2_405)" preserveAspectRatio="none" x="157" y="359" width="255" height="208" xlink:href="img/3.jpg"/>
+<image clip-path="url(#c3_405)" preserveAspectRatio="none" x="452" y="359" width="255" height="209" xlink:href="img/4.jpg"/>
+<path d="M176.7,804.7h38.9V785.3H176.7Z" class="g0_405"/>
+<path d="M274,882.5h19.5V843.6H274Z" class="g0_405"/>
+<path d="M157.2,902H313V882.5H157.2Z" class="g0_405"/>
+<path d="M157.2,921.4H313V902H157.2Z" class="g0_405"/>
+<path d="M176.7,765.5V921.7M196.2,765.5V921.7M215.6,765.5V921.7M235.1,765.5V921.7M254.6,765.5V921.7M274,765.5V921.7M293.5,765.5V921.7M156.9,785.3H313.3M156.9,804.7H313.3M156.9,824.2H313.3M156.9,843.6H313.3M156.9,863.1H313.3M156.9,882.5H313.3M156.9,902H313.3M157.2,765.5V921.7M313,765.5V921.7M156.9,765.8H313.3M156.9,921.4H313.3" class="g1_405"/>
+<path d="M362.9,785.3h38.9V765.8H362.9Z" class="g0_405"/>
+<path d="M343.4,804.7h58.4V785.3H343.4Z" class="g0_405"/>
+<path d="M401.8,804.7h19.5V785.3H401.8Z" class="g0_405"/>
+<path d="M362.9,824.2h38.9V804.7H362.9Z" class="g0_405"/>
+<path d="M460.2,843.6h19.5V824.2H460.2Z" class="g0_405"/>
+<path d="M440.8,863.1h58.4V843.6H440.8Z" class="g0_405"/>
+<path d="M343.4,882.5h58.4V863.1H343.4Z" class="g0_405"/>
+<path d="M401.8,882.5h97.4V863.1H401.8Z" class="g0_405"/>
+<path d="M343.4,902h58.4V882.5H343.4Z" class="g0_405"/>
+<path d="M401.8,902h97.4V882.5H401.8Z" class="g0_405"/>
+<path d="M343.4,921.4h58.4V902H343.4Z" class="g0_405"/>
+<path d="M401.8,921.4h97.4V902H401.8Z" class="g0_405"/>
+<path d="M362.9,765.5V921.7M382.3,765.5V921.7M401.8,765.5V921.7M421.3,765.5V921.7M440.8,765.5V921.7M460.2,765.5V921.7M479.7,765.5V921.7M343.1,785.3H499.5M343.1,804.7H499.5M343.1,824.2H499.5M343.1,843.6H499.5M343.1,863.1H499.5M343.1,882.5H499.5M343.1,902H499.5M343.4,765.5V921.7M499.2,765.5V921.7M343.1,765.8H499.5M343.1,921.4H499.5" class="g1_405"/>
+</svg>
